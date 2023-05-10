@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ZBBasicUtilsDemo_Example' do
+  pod 'ZBBasicUtilsDemo', :path => '../'
+
+  target 'ZBBasicUtilsDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
