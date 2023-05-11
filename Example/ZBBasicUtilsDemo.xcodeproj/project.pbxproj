@@ -30,7 +30,7 @@
 
 /* Begin PBXFileReference section */
 		25921312FE1ABC20436E8C1B /* Pods-ZBBasicUtilsDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZBBasicUtilsDemo_Example.release.xcconfig"; path = "Target Support Files/Pods-ZBBasicUtilsDemo_Example/Pods-ZBBasicUtilsDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
-		2BB4C25EEC4AE46F16DBF271 /* ZBBasicUtilsDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZBBasicUtilsDemo.podspec; path = ../ZBBasicUtilsDemo.podspec; sourceTree = "<group>"; };
+		2BB4C25EEC4AE46F16DBF271 /* ZBBasicUtilsDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZBBasicUtilsDemo.podspec; path = ../ZBBasicUtilsDemo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		39785F1C2A0C87B9009BF3B7 /* ZBBasicUtilsDemo_Example-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ZBBasicUtilsDemo_Example-Bridging-Header.h"; sourceTree = "<group>"; };
 		39785F1D2A0C87B9009BF3B7 /* LocationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocationViewController.h; sourceTree = "<group>"; };
 		39785F1E2A0C87B9009BF3B7 /* LocationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationViewController.m; sourceTree = "<group>"; };
