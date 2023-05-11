@@ -21,15 +21,15 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://gitee.com/biyuhuaping/ZBBasicUtilsDemo'
+  s.homepage         = 'https://github.com/biyuhuaping/ZBBasicUtilsDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'biyuhuaping' => 'biyuhuaping@163.com' }
-  s.source           = { :git => 'https://gitee.com/biyuhuaping/ZBBasicUtilsDemo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/biyuhuaping/ZBBasicUtilsDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
-  s.source_files = 'ZBBasicUtilsDemo/Classes/**/*.swift'
+  s.source_files = 'ZBBasicUtilsDemo/Classes/**/*'
   s.swift_version = '5.0'
   s.static_framework = true
   s.dependency 'BaiduMapKit', '~> 6.5.7'
